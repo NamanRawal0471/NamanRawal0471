@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am currently studying in the 6th semester of BE CSE at the esteemed Chitkara University. I am currently working my way through Data Structures and Full Stack.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamanRawal0471)](https://github.com/anuraghazra/github-readme-stats)
