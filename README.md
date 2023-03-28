@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently studying in the 6th semester of BE CSE at the esteemed Chitkara University. I am currently working my way through Data Structures and Full Stack.
+I am Naman Rawal, currently studying in the 6th semester of BE CSE at the esteemed Chitkara University. I am currently working my way through Data Structures and Full Stack.
 
 
